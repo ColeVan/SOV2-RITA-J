@@ -11,7 +11,7 @@ So far I am able to pull back data from Security Onion using the elastic API. Pl
 
 Jupyter Notebooks with Security Onion
 
-I need a method to query elastic data and retrieve the fields below.
+Cuurently trying to find method to query SOv2 elastic data and retrieve the fields below.
 
 'ts'
 
@@ -33,7 +33,9 @@ Unfortunately, I cannot accomplish this with the query string below using jupyte
 
 message:"ts" AND 'id.orig_h' AND 'id.resp_h' AND 'host' AND 'id.resp_p' AND 'method'
 
-The problem, to use this notebook, “link below”, I need to parse the fields above in order to set variable for them in the fields below.
+The big problem! 
+
+To use this notebook, “link below”, I need to parse the fields above in order to set variable for them in the fields below.
 
 https://github.com/Cyb3r-Monk/RITA-J/blob/main/C2%20Detection%20-%20HTTP.ipynb
 
