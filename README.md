@@ -7,4 +7,23 @@ https://github.com/Cyb3r-Monk/RITA-J/blob/main/C2%20Detection%20-%20HTTP.ipynb
 
 So far I am able to pull back data from Security Onion using the elastic API. I am not able not able to pull back the correct data to use it in conjunction with RITA-J notebook.
 
-[Jupyter Notebooks with Security Onion.docx](https://github.com/ColeVan/SOV2-RITA-J/files/7748185/Jupyter.Notebooks.with.Security.Onion.docx)
+
+
+Jupyter Notebooks with Security Onion
+
+I need a method to query elastic data and retrieve the fields below.
+
+'ts'
+
+'id.orig_h'
+
+'id.resp_h'
+
+'host'
+
+'id.resp_p'
+
+'method'
+
+
+![image](https://user-images.githubusercontent.com/70167373/146839611-e793d651-9e41-4544-a31c-ec83d913b348.png)
