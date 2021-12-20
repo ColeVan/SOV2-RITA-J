@@ -13,6 +13,9 @@ Jupyter Notebooks with Security Onion
 
 Cuurently trying to find method to query SOv2 elastic data and retrieve the fields below.
 
+
+**(These are the fields I want)**
+
 'ts'
 
 'id.orig_h'
@@ -25,13 +28,15 @@ Cuurently trying to find method to query SOv2 elastic data and retrieve the fiel
 
 'method'
 
+**(I can retrieve these fields in Kibana)**
+
 
 ![image](https://user-images.githubusercontent.com/70167373/146839611-e793d651-9e41-4544-a31c-ec83d913b348.png)
 
 
-Unfortunately, I cannot accomplish this with the query string below using jupyter notebooks.
+Unfortunately, I cannot pull this data into Jupyter Notebooks using the query string below.
 
-message:"ts" AND 'id.orig_h' AND 'id.resp_h' AND 'host' AND 'id.resp_p' AND 'method'
+**message:"ts" AND 'id.orig_h' AND 'id.resp_h' AND 'host' AND 'id.resp_p' AND 'method'**
 
 The big problem! 
 
@@ -50,6 +55,8 @@ above.
 ![image](https://user-images.githubusercontent.com/70167373/146839716-48fa7b07-1c35-450b-b71b-4904cc8f9869.png)
 
 As you can see the fields needed below are not present. This is the issue!
+
+**(I need these fields!)** **What exact query string do I need to issue to obatin these fields from Sov2??**
 
 'ts'
 
