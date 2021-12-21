@@ -1,20 +1,21 @@
-# SOV2-RITA-J
+# Security Onion RITA-J Notebook
+
 This project is for finding a solution to use Security Onion Elastic data with Jupyter Notebooks. 
 
-The goal is to successfully use this notebook project below with Security Onion for beacon detection capabilities. 
+The goal is to use the notebook in teh link below with Security Onion for beacon detection capabilities. 
 
 https://github.com/Cyb3r-Monk/RITA-J/blob/main/C2%20Detection%20-%20HTTP.ipynb 
 
-So far I am able to pull back data from Security Onion using the elastic API. Please see Zeek-Network-Hunting.ipynb above. I am not able to pull back the correct data to use it in conjunction with RITA-J notebook.
+So far I am able to pull back data from Security Onion using the elastic API. Please see Zeek-Network-Hunting.ipynb above. However, I am not able to pull back the correct data to use it in conjunction with RITA-J notebook in teh above link.
 
 
 
 Jupyter Notebooks with Security Onion
 
-Cuurently trying to find method to query SOv2 elastic data and retrieve the fields below.
+At the current momnet I am trying to find method to query Security Onion elastic data and retrieve the fields below.
 
 
-**(These are the fields I want)**
+**(The fields below are what I need in order to place them in a data frame for futher use)**
 
 'ts'
 
@@ -28,7 +29,7 @@ Cuurently trying to find method to query SOv2 elastic data and retrieve the fiel
 
 'method'
 
-**(I can retrieve these fields in Kibana)**
+**(I can retrieve these fields above in Kibana. Please see the image below. However these fields are not parsed but with in the message field of each log. )**
 
 
 ![image](https://user-images.githubusercontent.com/70167373/146839611-e793d651-9e41-4544-a31c-ec83d913b348.png)
