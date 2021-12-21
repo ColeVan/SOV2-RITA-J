@@ -15,7 +15,7 @@ Jupyter Notebooks with Security Onion
 At the current momnet I am trying to find method to query Security Onion elastic data and retrieve the fields below.
 
 
-**(The fields below are what I need in order to place them in a data frame for futher use)**
+**(The fields below are what I need in order to place them in a data frame for further use)**
 
 'ts'
 
