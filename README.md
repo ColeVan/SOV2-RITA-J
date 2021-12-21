@@ -53,7 +53,8 @@ The query search string below allows me to pull data back from SOv2 Elastic. Unf
 above.
 
 
-![image](https://user-images.githubusercontent.com/70167373/146839716-48fa7b07-1c35-450b-b71b-4904cc8f9869.png)
+![image](https://user-images.githubusercontent.com/70167373/146933411-397ebc21-1187-467c-89c6-63a0ad12b328.png)
+
 
 As you can see the fields needed below are not present. This is the issue!
 
