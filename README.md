@@ -72,7 +72,7 @@ As you can see the fields needed below are not present. This is the issue!
 
 'method'
 
-![image](https://user-images.githubusercontent.com/70167373/146839745-8bc58746-5eac-4f1f-b899-00b0411be553.png)
+![image](https://user-images.githubusercontent.com/70167373/146933623-134bd54f-ff70-4dc2-aaf8-394fd64f6553.png)
 
 
 
