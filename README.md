@@ -6,7 +6,7 @@ The goal is to use the notebook in the link below with Security Onion for beacon
 
 https://github.com/Cyb3r-Monk/RITA-J/blob/main/C2%20Detection%20-%20HTTP.ipynb 
 
-So far I am able to pull back data from Security Onion using the elastic API. Please see Zeek-Network-Hunting.ipynb above. However, I am not able to pull back the correct data to use it in conjunction with RITA-J notebook in teh above link.
+So far I am able to pull back data from Security Onion using the elastic API. Please see Zeek-Network-Hunting.ipynb above. However, I am not able to pull back the correct data to use it in conjunction with RITA-J notebook in the above link.
 
 
 
